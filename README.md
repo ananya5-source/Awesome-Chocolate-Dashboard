@@ -18,7 +18,7 @@
 
 5) Data source:
  
-       This data is taken from GitHub.
+    This data is taken from GitHub.
 
 5) Highlights/ features:
 
