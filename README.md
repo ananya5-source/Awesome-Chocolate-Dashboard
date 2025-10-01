@@ -23,7 +23,7 @@
 5) Highlights/ features:
 
    This dashboard presents data including date, location, people, teams, products, shipments, and more. I utilised DAX formulas to create various measures such as Total Sales, Total Cost, Total Profit, Total Boxes, and Amount per Box, etc.
-        I used an IF condition to create a line chart that compares total sales from the current year and the previous year. The dashboard also includes a treemap displaying the top 10 products (chocolates), created using filter options. Additionally, it presents shipment count by boxes. I calculated the profit percentage to visualise both total sales and profit margins of the product through a bar chart. A pie chart illustrates total sales by geographic region. The dashboard also highlights the top 5 salespeople, identified using filters based on total sales performance.
+        I used an IF condition to create a line chart that compares total sales from the current year and the previous year. The dashboard also includes a treemap displaying the top 10 products (chocolates), created using filter options. Additionally, the dashboard also presents shipment count by boxes. I calculated the profit percentage to visualise both total sales and profit margins of the product through a bar chart. A pie chart illustrates total sales by geographic region. The dashboard also highlights the top 5 salespeople, identified using filters based on total sales performance.
    To enhance interactivity, I added a slicer that allows users to filter and view data for a specific time period.
 
 6) SCREENSHOT:
