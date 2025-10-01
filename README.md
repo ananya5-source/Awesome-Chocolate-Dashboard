@@ -9,12 +9,12 @@
 3) Tech stack (what tools I used) :
 
     Power BI Desktop – the main Data visualisation platform for report creation.
+
+    Power Query – A Data transformation and cleaning platform used for report creation.
+
+    DAX (Data Analysis Expression) – Used for calculating measures, dynamic visuals and conditional logic.
    
-       Power Query – A Data transformation and cleaning platform used for report creation.
-   
-       DAX (Data Analysis Expression) – Used for calculating measures, dynamic visuals and conditional logic.
-   
-       Data Modelling – Used to establish relationships among tables.
+    Data Modelling – Used to establish relationships among tables.
 
 5) Data source:
  
