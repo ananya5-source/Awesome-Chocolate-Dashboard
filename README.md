@@ -27,6 +27,6 @@
    To enhance interactivity, I added a slicer that allows users to filter and view data for a specific time period.
 
 6) SCREENSHOT:
-     https://github.com/ananya5-source/Awesome-Chocolate-Dashboard/blob/main/screenshot.png
+     (https://github.com/ananya5-source/Awesome-Chocolate-Dashboard/blob/main/screenshot.png)
       
    
